@@ -1,4 +1,4 @@
 hotpix2
 local-hotpix에서 수정
-local-hotpix에서 수정2
+origin-hotpix에서 수정
 
