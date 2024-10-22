@@ -1,1 +1,3 @@
 hotpix2
+local-hotpix에서 수정
+
